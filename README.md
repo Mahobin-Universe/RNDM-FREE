@@ -16,7 +16,7 @@
 
 `rm -rf RNDM-FREE`
 
-`git clone --depth=1 https://github.com/FB-KING/RNDM-FREE.git`
+`git clone --depth=1 https://github.com/THE-BADBOY/RNDM-FREE.git`
 
 `cd RNDM-FREE`
 
